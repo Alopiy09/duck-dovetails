@@ -47,8 +47,8 @@ const displayShoppingCart = () => {
 
     }
 }
-
-
+if (button.addEventListener("click"))
+    
 
 
 
